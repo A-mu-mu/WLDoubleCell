@@ -1,0 +1,6 @@
+framework module WLDoubleCell {
+  umbrella header "WLDoubleCell-umbrella.h"
+
+  export *
+  module * { export * }
+}

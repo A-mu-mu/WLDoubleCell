@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - WLDoubleCell (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - WLDoubleCell (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  WLDoubleCell:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  WLDoubleCell: 2571e8f08ad899b91fe5c559939b81936fe19f71
+
+PODFILE CHECKSUM: dc4f28365ea418f95786ca365f8a856dd6fab3f2
+
+COCOAPODS: 1.10.0

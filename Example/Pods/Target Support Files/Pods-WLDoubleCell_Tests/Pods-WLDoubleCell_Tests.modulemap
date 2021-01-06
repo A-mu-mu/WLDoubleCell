@@ -1,0 +1,6 @@
+framework module Pods_WLDoubleCell_Tests {
+  umbrella header "Pods-WLDoubleCell_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
